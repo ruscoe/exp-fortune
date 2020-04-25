@@ -12,5 +12,5 @@ Created in an effort to learn how ExpressionEngine add-ons work.
 
 ## Usage
 
-Place the `{exp:fortune}` somewhere in a template to see a random fortune
+Place the `{exp:fortune}` tag somewhere in a template to see a random fortune
 each time the page loads.

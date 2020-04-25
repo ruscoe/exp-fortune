@@ -18,8 +18,6 @@ class Fortune
 
   /**
   * Constructor.
-  *
-  * @return string
   */
   public function __construct()
   {

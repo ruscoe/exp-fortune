@@ -8,10 +8,8 @@ if (!defined('BASEPATH')) {
 
 class Fortune
 {
-  public $return_data;
-
   /** @var string the fortune text to be outputted */
-  private $output;
+  public $return_data;
 
   /** @var array the fortunes that may appear */
   private $fortunes = [];
